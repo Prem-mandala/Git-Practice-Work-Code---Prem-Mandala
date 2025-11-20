@@ -1,3 +1,4 @@
 P = 10 + 99
 R = 4 + 22
+E = 8 + 100
 <Prem> <Kumar> <Code Push> = Print
